@@ -1,0 +1,41 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 860M (ID=0x1392)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+    Driver:   25.21.14.1967
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Gerard\OneDrive\Documents\Gerard T\College 2017-2018\Colloquiem\Project Freefall\BOXESv2.3.5\Builds\Test\Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Gerard\OneDrive\Documents\Gerard T\College 2017-2018\Colloquiem\Project Freefall\BOXESv2.3.5\Builds\Test\Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Gerard\OneDrive\Documents\Gerard T\College 2017-2018\Colloquiem\Project Freefall\BOXESv2.3.5\Builds\Test\Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Gerard\OneDrive\Documents\Gerard T\College 2017-2018\Colloquiem\Project Freefall\BOXESv2.3.5\Builds\Test\Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Gerard\OneDrive\Documents\Gerard T\College 2017-2018\Colloquiem\Project Freefall\BOXESv2.3.5\Builds\Test\Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Gerard\OneDrive\Documents\Gerard T\College 2017-2018\Colloquiem\Project Freefall\BOXESv2.3.5\Builds\Test\Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Gerard\OneDrive\Documents\Gerard T\College 2017-2018\Colloquiem\Project Freefall\BOXESv2.3.5\Builds\Test\Test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Gerard\OneDrive\Documents\Gerard T\College 2017-2018\Colloquiem\Project Freefall\BOXESv2.3.5\Builds\Test\Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Gerard\OneDrive\Documents\Gerard T\College 2017-2018\Colloquiem\Project Freefall\BOXESv2.3.5\Builds\Test\Test_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Gerard\OneDrive\Documents\Gerard T\College 2017-2018\Colloquiem\Project Freefall\BOXESv2.3.5\Builds\Test\Test_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.321 seconds
+Platform assembly: C:\Users\Gerard\OneDrive\Documents\Gerard T\College 2017-2018\Colloquiem\Project Freefall\BOXESv2.3.5\Builds\Test\Test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Gerard\OneDrive\Documents\Gerard T\College 2017-2018\Colloquiem\Project Freefall\BOXESv2.3.5\Builds\Test\Test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+IndexOutOfRangeException: Array index is out of range.
+  at UnityEngine.Display.RecreateDisplayList (System.IntPtr[] nativeDisplay) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+<RI> Initialized touch support.
+UnloadTime: 1.259968 ms
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4420 -> priority: 1 
+  Thread -> id: e3c -> priority: 1 
+  Thread -> id: 3f90 -> priority: 1 
+  Thread -> id: 4154 -> priority: 1 
